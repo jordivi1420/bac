@@ -1,0 +1,34 @@
+[{
+    "nombre": "Producto de ejemplo",
+    "descripcion": "Esta es una descripción del producto de ejemplo",
+    "precio": 19.99,
+    "categoria": "electronicos",
+    "disponible": true,
+    "fechaCreacion": "2024-01-19T12:34:56.789Z",
+    "imagenes": [
+      {
+        "public_id": "imagen1",
+        "url": "https://ejemplo.com/imagen1.jpg"
+      },
+      {
+        "public_id": "imagen2",
+        "url": "https://ejemplo.com/imagen2.jpg"
+      }
+    ],
+    "vendedor": "Nombre del vendedor",
+    "stock": 100,
+    "rango": 0,
+    "numero_resenas": 0,
+    "resenas": [
+      {
+        "nombre_resenor": "Usuario1",
+        "rango_resena": 5,
+        "comentario": "¡Excelente producto!"
+      },
+      {
+        "nombre_resenor": "Usuario2",
+        "rango_resena": 4,
+        "comentario": "Buen producto, pero podría mejorar en ciertos aspectos."
+      }
+    ]
+  }]
